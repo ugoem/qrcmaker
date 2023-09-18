@@ -10,18 +10,20 @@ QR Code stands for Quick Response code. Initially, it was developed for the auto
 
 * Download and extract the folder and then place the extracted folder in your appropriate project directory where you want to execute it. Now create a PHP file in the same folder where you placed the phpqrcode folder. We need to include the 'qrlib.php' file to use a function named 'png()'. This function is inside the QRcode class, which outputs a QR code directly in the browser when we pass some text as a parameter.
 
-* 
 # Syntax
-``` QRcode::png(text, file, ecc, pixel_size, frame_size);```
+`` QRcode::png(text, file, ecc, pixel_size, frame_size);``
 
 * text- the text message which needs to be in a QR code,
 * file- location to save the generated QR code,
 * ecc- to specify the error correction capability of the QR code, it has four levels: L, M, Q and H,
 * pixel_size- to specify the pixel size of QR,
 * frame_size- to specify the size of the QR.
+  
 ![image](https://github.com/ugoem/qrcmaker/assets/24642339/d0f0428f-fcd2-4ce3-af30-db338c015dae)
 
+
 ![image](https://github.com/ugoem/qrcmaker/assets/24642339/933c582c-bbf2-44d8-82ba-bc9366b41dd7)
+
 
 # Dynamic vs Static QR Codes
 * The outcome of both are pretty similar. They have their differences when it comes to changes, updates, stats, track.
@@ -60,6 +62,5 @@ QR Code stands for Quick Response code. Initially, it was developed for the auto
     $content = "http://www.etutorialspoint.com/" ;
     QRcode::png($content) ;
 ?>
-  ```
+```
 When you execute the above code, you will get this QR Code.
-
