@@ -19,18 +19,6 @@ QR Code stands for Quick Response code. Initially, it was developed for the auto
 * ecc- to specify the error correction capability of the QR code, it has four levels: L, M, Q and H,
 * pixel_size- to specify the pixel size of QR,
 * frame_size- to specify the size of the QR.
-
-* Copy and paste the given code in your PHP file and replace the value in the content variable.
-
-  ```
-<?php
-    include "phpqrcode/qrlib.php" ;
-    $content = "http://www.etutorialspoint.com/" ;
-    QRcode::png($content) ;
-?>
-  ```
-When you execute the above code, you will get this QR Code.
-
 ![image](https://github.com/ugoem/qrcmaker/assets/24642339/d0f0428f-fcd2-4ce3-af30-db338c015dae)
 
 ![image](https://github.com/ugoem/qrcmaker/assets/24642339/933c582c-bbf2-44d8-82ba-bc9366b41dd7)
@@ -63,3 +51,15 @@ When you execute the above code, you will get this QR Code.
  * No Coding Required
  * QR Code Statistics
  * Fully customized landing pages
+
+* Copy and paste the given code in your PHP file and replace the value in the content variable.
+
+  ```
+<?php
+    include "phpqrcode/qrlib.php" ;
+    $content = "http://www.etutorialspoint.com/" ;
+    QRcode::png($content) ;
+?>
+  ```
+When you execute the above code, you will get this QR Code.
+
