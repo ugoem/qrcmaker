@@ -21,7 +21,8 @@ QR Code stands for Quick Response code. Initially, it was developed for the auto
 * pixel_size- to specify the pixel size of QR,
 * frame_size- to specify the size of the QR.
   
-![image](https://github.com/ugoem/qrcmaker/assets/24642339/d0f0428f-fcd2-4ce3-af30-db338c015dae)
+![image](https://github.com/ugoem/qrcmaker/assets/24642339/d0f0428f-fcd2-4ce3-af30-db338c015dae) ![image](https://github.com/ugoem/qrcmaker/assets/24642339/97586cd6-6ed7-42af-8509-8e7bbcf15874)
+
 
 
 ![image](https://github.com/ugoem/qrcmaker/assets/24642339/933c582c-bbf2-44d8-82ba-bc9366b41dd7)
