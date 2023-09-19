@@ -4,6 +4,7 @@ Quick Response (QR) Code Generator Application
 ## Check out the project at [QRC Maker.io](https://auenetengtech.com.ng/qrcmaker/)
 
 ## [Demo Video here](https://vimeo.com/865741049/8e0d4d51b5?share=copy)
+<div style="padding:56.22% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/865741049?h=8e0d4d51b5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="QR Code Maker 5min Demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## [Project Presentation Slide](https://docs.google.com/presentation/d/1OeWJ8IEc0SgXL80L21JP1UalWFYU6gZ1/edit?usp=sharing&ouid=116822111435570341020&rtpof=true&sd=true)
 
