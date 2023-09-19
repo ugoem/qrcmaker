@@ -3,6 +3,10 @@ Quick Response (QR) Code Generator Application
 
 ## Check out the project at [QRC Maker.io](https://auenetengtech.com.ng/qrcmaker/)
 
+## [Demo Video here](https://vimeo.com/865741049/8e0d4d51b5?share=copy)
+
+## [Project Presentation Slide](https://docs.google.com/presentation/d/1OeWJ8IEc0SgXL80L21JP1UalWFYU6gZ1/edit?usp=sharing&ouid=116822111435570341020&rtpof=true&sd=true)
+
 ![image](https://github.com/ugoem/qrcmaker/assets/24642339/73c159ff-3fd9-4fc6-b65f-6155808edd7b)
 
 QR Code stands for Quick Response code. Initially, it was developed for the automotive industry, but later it was widely used in a wider range of applications. By using this, we can replace a large amount of information, such as smart card data, consumer advertising, website urls, telephone numbers, articles, and much more, into just a two-dimensional matrix Barcode. It is capable of storing up to 4,296 alphanumeric characters of arbitrary text. The generated code can be read by a QR-Code reader software using optical smart devices. PHP provides several libraries to generate QR code. In PHP, it is very simple to generate QR codes
